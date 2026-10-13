@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home" android:title="Home" android:icon="@android:drawable/ic_menu_myplaces" />
+    <item android:id="@+id/nav_list" android:title="Anime List" android:icon="@android:drawable/ic_menu_agenda" />
+    <item android:id="@+id/nav_search" android:title="Cari" android:icon="@android:drawable/ic_menu_search" />
+    <item android:id="@+id/nav_schedule" android:title="Jadwal" android:icon="@android:drawable/ic_menu_day" />
+    <item android:id="@+id/nav_downloads" android:title="Download" android:icon="@android:drawable/ic_menu_save" />
+</menu>
